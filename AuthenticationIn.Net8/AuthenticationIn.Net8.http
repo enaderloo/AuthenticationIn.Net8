@@ -1,0 +1,6 @@
+@AuthenticationIn.Net8_HostAddress = http://localhost:5215
+
+GET {{AuthenticationIn.Net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
